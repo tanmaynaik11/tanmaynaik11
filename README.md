@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tanmay Naik
 
 🎓 Machine Learning Engineer | Data Scientist | Generative AI Enthusiast  
-📍 Based in the U.S. | 🌐 Open to global opportunities  
+📍 Based in the U.S. | 🌐 Open to opportunities in ML and Data Science  
 📫 tanmaynaik99811@gmail.com | [LinkedIn](https://www.linkedin.com/in/tanmaynaik/) | [GitHub](https://github.com/tanmaynaik11)
 
 ---
@@ -45,14 +45,6 @@ I'm a Machine Learning Engineer with 3+ years of experience building AI systems 
 📱 Led team to build Transformer-based on-device authentication  
 🎯 Achieved **99% accuracy** with TensorFlow Lite
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanmaynaik11&show_icons=true&hide_border=true&count_private=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaynaik11&layout=compact&hide_border=true&theme=radical"/>
-</div>
 
 ---
 
