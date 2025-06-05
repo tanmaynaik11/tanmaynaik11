@@ -37,13 +37,6 @@ I'm a Machine Learning Engineer with 3+ years of experience building AI systems 
 🔍 Fine-tuned **TinyLLaMA** with **LoRA** + **RAG** for financial document QA  
 📚 Indexed 100K+ filings with ChromaDB and served with FastAPI
 
-### 🧬 GNN Product Recommender  
-🛍️ Built with PyTorch Geometric on 500K+ Amazon interactions  
-🚀 Served in real-time with FastAPI + Docker
-
-### 👁️ Iris Biometric Auth (Android)  
-📱 Led team to build Transformer-based on-device authentication  
-🎯 Achieved **99% accuracy** with TensorFlow Lite
 
 
 ---
