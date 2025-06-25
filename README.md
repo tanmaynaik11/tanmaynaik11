@@ -37,6 +37,10 @@ I'm a Machine Learning Engineer with 3+ years of experience building AI systems 
 🔍 Fine-tuned **TinyLLaMA** with **LoRA** + **RAG** for financial document QA  
 📚 Indexed 100K+ filings with ChromaDB and served with FastAPI
 
+### 📄 Multi-Agent Resume-JD analyzer system
+Leveraged **RAG, LangGraph, Qdrant and Redis** to build a multi agent system.
+Analyzes Resume and JD to give matching score not just based on skills from skills section but extracting skill from other section by leveraging **LLM and promp-engineering**.
+
 
 
 ---
